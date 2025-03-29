@@ -1,5 +1,4 @@
 # Here is a new update by Raph Trajano
-# Here is another update by Raph Trajano
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
